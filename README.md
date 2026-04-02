@@ -4,11 +4,11 @@ This project show how to make an alarm timer with a 4 digits 7 segment display. 
 
 
 The materials you will need for this project.
-1x arduino board
-1x active buzzer
-8x 1000 ohm resistors
-jumper wires
-brearboard
+1x arduino board/
+1x active buzzer/
+8x 1000 ohm resistors/
+jumper wires/
+brearboard/
 4 digits 7 segment display
 .
 
